@@ -150,7 +150,7 @@ python recommendations_engine.py
 
 ## Uso de ferramentas de IA
 
-Ferramentas de inteligência artificial foram utilizadas como apoio para esclarecimento de conceitos, revisão de código e melhoria da documentação, sempre com validação do conteúdo durante o desenvolvimento do projeto.
+Ferramentas de inteligência artificial foram utilizadas como apoio para esclarecimento de conceitos, revisão de código e melhoria da documentação, sempre com validação durante o desenvolvimento do projeto.
 
 ---
 
